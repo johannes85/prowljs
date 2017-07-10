@@ -1,6 +1,6 @@
 {
   "name": "prowljs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Node library for accessing Prowl",
   "main": "build/main/ts/prowl/Prowl.js",
   "typings": "build/main/ts/prowl/Prowl.d.ts",
