@@ -1,5 +1,7 @@
 ## Node.js Library for Accessing Prowl
 
+[![Build Status](https://travis-ci.org/johannes85/prowljs.svg?branch=master)](https://travis-ci.org/johannes85/prowljs)
+
 This library supports all API endpoints provided by Prowl:
   * add
   * verify
